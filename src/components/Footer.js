@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className='center'>
-            <span>Come Hang out with me!</span>  
+            <span>Come Hang out with me! </span>  
             <span>
             <div className="social">
                 <a href="https://twitter.com/riya_saxena__" target="_blank"><i className="fab fa-twitter" aria-hidden="true"></i></a>
