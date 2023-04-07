@@ -14,11 +14,14 @@ const Experience = () => {
 					<div className="column right">
 						<div className="text">
 							TATA Consultancy Services <br />
-							<span>(Assistant System Engineer Trainee)</span>
+							<span>(Data Analyst Lead | Systems Engineer)</span>
 							<br />
 							<h4>New Delhi | August 2021 - present</h4>
 						</div>
 						<ul>
+							<li>Worked as a Data Analyst Lead with 4 people in my team</li>
+							<li>Used SQL and Qlik, familiar with BI tools</li>
+							<li>Working on PSP V2, Ministry of External Affairs, GoI</li>
 							<li>Worked as a Software Developer (Java, Groovy)</li>
 							<li>Collaborated with On-Shore as well as Off-Shore colleagues</li>
 							<li>Experience of working with an Agile Team of 18 Members</li>
